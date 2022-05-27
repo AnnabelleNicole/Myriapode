@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="./css/style.css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald|Noto+Sans">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
-    <title>Myriapode-accueil</title>
+
     <link rel="icon" type="image/x-icon" href="./images/favicon.png">
 </head>
 
