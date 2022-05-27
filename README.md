@@ -11,7 +11,7 @@ vous par différents canaux;
 - Une page web « equipe.html » qui correspond aux membres de votre équipe ainsi que de vos réalisations.
 
 - Menu de navigation semblable sur chaque page : accueil -> Avec position sticky et décalage top de 
-10 pixels, Contact -> Avec position absolue, équipe -> Avec position relative disposé à la 
+10 pixels, contact -> Avec position absolue, équipe -> Avec position relative disposé à la 
 suite de l’entête de votre page.
 
 - Arrière-plan: Gradient de couleurs, Image d’arrière-plan en haut à droite, Couleur avec opacité (alpha) pour 
